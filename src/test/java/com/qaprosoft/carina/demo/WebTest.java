@@ -1,3 +1,5 @@
+package com.qaprosoft.carina.demo;
+
 import com.qaprosoft.carina.core.foundation.IAbstractTest;
 import com.qaprosoft.carina.demo.example.HomePage;
 import com.qaprosoft.carina.demo.example.RegistrationPage;
